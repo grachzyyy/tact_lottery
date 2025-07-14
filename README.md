@@ -62,3 +62,4 @@ To add new test files to your contracts, create `*.spec.ts` files similar to the
 ## License
 
 [MIT](./LICENSE)
+# tact_lottery
